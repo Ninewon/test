@@ -14,6 +14,10 @@ public class WhileExMain {
                 System.out.println(rand1 + "과" + rand2 + "의 값이 같음으로 무인도 탈출");
                 System.out.println("무인도를" + cnt + "만에 탈출 성공 했습니다." );
                 break;
+
+
+
+
             }
         }
     }
